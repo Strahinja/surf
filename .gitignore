@@ -1,0 +1,9 @@
+*~
+*.bak
+*.save
+*.orig
+*.rej
+*.o
+*.so
+surf
+nohup.out
