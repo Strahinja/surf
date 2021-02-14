@@ -58,7 +58,8 @@ static Parameter defconfig[ParameterLast] = {
 
 static SearchEngine searchengines[] = {
     { "g",   "https://www.google.com/search?q=%s"   },
-    { "d",   "https://duckduckgo.com/?q=%s"   }
+    { "d",   "https://duckduckgo.com/?q=%s"   },
+    { "s",   "https://searx.prvcy.eu/search?q=%s" }
 };
 
 static UriParameters uriparams[] = {
